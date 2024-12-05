@@ -1,0 +1,13 @@
+Welcome!Here's a brief introduction about this program:
+	Every command consists of two parameters:
+	mode:
+	  0 row changes
+	  1 column changes
+	  -1 quit or help
+	index: 
+	  usually mark the index of array_ptr
+	  1 for confirmation to quit
+	  0 for confirmation to get help document
+That's all!We're trying to make this system easier to use and just waiting for our good news!
+
+	

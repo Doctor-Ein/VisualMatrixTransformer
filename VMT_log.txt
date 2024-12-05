@@ -1,0 +1,18 @@
+[Normal]Log_ID:1
+	GetCommand:mode=1,index=0
+	GetCommand:mode=-1,index=0
+	Get invalid Transform mode:-1, no other operation by default
+	GetCommand:mode=1,index=0
+	GetCommand:mode=0,index=1
+	GetCommand:mode=0,index=3
+	GetCommand:mode=-1,index=-1
+	Get invalid Transform mode:-1, no other operation by default
+[Normal]Log_ID:1
+	GetCommand:mode=1,index=1
+	GetCommand:mode=1,index=1
+	GetCommand:mode=-1,index=0
+	Get invalid Transform mode:-1, no other operation by default
+	GetCommand:mode=-1,index=-1
+	Get invalid Transform mode:-1, no other operation by default
+[Normal]Log_ID:1
+	GetCommand:mode=1,index=2
